@@ -4,17 +4,21 @@ layout: default
 
 # Prayaag Venkat
 
-Harvard University:i Computer Science
-Test update #1: using vi
+I am a first-year graduate student in the [theory of computation group](https://toc.seas.harvard.edu/) at Harvard University. I completed my undergraduate studies at the University of Maryland, College Park.
 
-When $a \ne 0$, there are 2 solutions to $ax^2 + bx + c = 0$ and they are $x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$
+My graduate studies are supported by an [NSF Graduate Fellowship](https://www.nsfgrfp.org/).
+## Papers
+- Samir Khuller, Jingling Li, Pascal Sturmfels, Kevin Sun, and Prayaag Venkat.  
+**Select and Permute: An Improved Online Framework for Scheduling to Minimize Weighted Completion Time**  
+The 13th Latin American Theoretical Informatics Symposium (LATIN 2018) [[arXiv:1704.06677](https://arxiv.org/abs/1704.06677)]
 
-Added from browser, and a test of math in its own line:
-$$
-I = \begin{bmatrix}
-1 & 0 \\
-0 & 1
-\end{bmatrix}
-$$
+- Prayaag Venkat and David Mount.  
+**A Succinct, Dynamic Data Structure for Proximity Queries on Point Sets**  
+The 26th Canadian Conference on Computational Geometry (CCCG 2014) [[link](http://www.cccg.ca/proceedings/2014/papers/paper32.pdf)]
+
+## Notes
+- [A Review of Bayesian Statistics](https://vprayaag.github.io/notes/bayesian-statistics.html)
 ___
-[Blog](https://pkvasv.github.io/blog) | [GitHub](https://github.com/pkvasv) | [Email](mailto:pkvasv@gmail.com)
+[CV](/cv.pdf) | [GitHub](https://github.com/pkvasv) | [Email](mailto:pkvasv@gmail.com)
+
+*Last updated: 07/29/2018*
