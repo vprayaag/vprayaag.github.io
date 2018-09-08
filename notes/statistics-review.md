@@ -3,7 +3,7 @@ layout: default
 ---
 
 # A Review of Statistics
-
+TEST I AM DELETING THIS STUFF
 ## Decision theory
 - Basic supervised learning setup
 - Loss functions
