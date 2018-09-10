@@ -8,6 +8,8 @@ layout: default
 # BRAIN DUMP BELOW
 ---
 
+9/10/18: See the recent paper of Ilya Razenshtyn on ANN. There is a theorem (Daher's Theorem) which is believed to have applications outside of NNS. The theorem says that for any dim. d normed space, one can perturb it slightly to get a new normed space Y, such that there is a "nice" map between _the unit balls of_ Y and Z, where Z is close to $\ell_2^d$
+
 2. A collection of problems related to construction of RIP matrices
 
 See chapter 5 of these notes by Bandeira: https://cims.nyu.edu/~bandeira/TenLecturesFortyTwoProblems.pdf. RIP matrices are useful in several contexts. It is known that they exist. In fact, a random matrix often posseses RIP. One (hard) open problem is to give an explicit, deterministic construction of RIP matrices.

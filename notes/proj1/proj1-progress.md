@@ -6,6 +6,13 @@ layout: default
 # BRAIN DUMP BELOW
 ---
 
+9/10/18: Talk to Prof. Lu about the Kac-Rice formula. It is a tool for computing the number of local optima of a random objective function. So far, there are only two results I know of which use this tool. It would be a good class project to learn about this tool and its applications. There are potentially close connections with counting complexity.
+
+1. Prof. Lu mentioned this result in the context of initialization methods for gradient descent applied to a formulation of the phase retrieval problem.
+2. Tengyu Ma used it to understand the optimization landscape of tensor decomposition. See https://arxiv.org/abs/1706.05598
+
+Another potentially related paper, is by Ankur Moitra: https://arxiv.org/abs/1610.04317 This is also related to counting.
+
 # Provable algorithms for computing partition functions
 
 In general, computing partition functions are hard. However, they are very practically relevant, so people just use some heuristics. There has been some work on designing approximation algorithms. There are two classes of algorithms: MCMC and Variational Methods.
