@@ -2,6 +2,49 @@
 layout: default
 ---
 
+# Variational inference
+
+### Basic overview
+In Bayesian inference, we observe data $x$ and we want to infer hidden variables $z$. A priori, we posit that the connection between the two is given by the joint distribution $p(x,z)$.
+
+We are interested in the posterior distribution:
+$$
+p(z | x) = \frac{p(z,x)}{p(x)}.
+$$
+
+The numerator $p(x,z)$ is easy to compute: just write $p(x,z) = p(x | z) p(z)$. The first term, **the likelihood**, is easy to compute; this is just follows by definition of the generative model. The second term, **the prior**, is our a priori belief about $z$; it encodes the uncertainty about it we have before anything happens.
+
+The denominator, called **the evidence**, is hard to compute because we need to sum over all configurations $z$. It is related to the partition function. From now on, the goal is to compute (maybe approximately) this quantity.
+
+To do so, we approximate the posterior by some family of distributions $\{q_\lambda\}_\lambda$, where $\lambda \in \Lambda$ is some parameter we have introduced to succinctly identify a particular distribution from the family.
+
+Having chosen the family, the natural thing to do is the pick the distribution in it which is "closest" to the posterior. One way to do this is to minimize the KL divergence $KL(q_\lambda(z) || p(z | x))$. Unfortunately, optimizing this objective function is still too hard.
+
+It turns out that one can show that:
+$$
+KL(q_\lambda(z) || p(z | x)) = \log p(x) - L(\lambda),
+$$
+where $L(\lambda) = \mathbb{E}_q[\log p(x,z)] + S(q)$ is called the **ELBO (evidence lower bound)** and $S$ is the Shannon entropy. Rearranging:
+$$
+\log p(x) = KL(q_\lambda(z) || p(z | x)) + L(\lambda) \geq L(\lambda)
+$$
+
+It turns out that optimizing $L$ is more tractable because it involves quantities that we know. In terms of statistical physics, the ELBO exactly seeks to balance minimizing energy while maximizing entropy (in the same way as the free energy).
+
+There are several drawbacks of this approach:
+- Blindly optimizing $L$ does not tell us quantitatively how far or close we are from the log-partition function.
+- We need to decide on a family of distributions beforehand. If we choose a powerful family of distribution, then there may exist a distribution in it which contains the posterior or something close to it, but then optimizing $L$ may become hard. On the other hand, choosing an easy to optimize family may not be strong enough; in other words, even the best distribution in that family may not be close (in KL divergence) to the true posterior.
+
+### Resources
+- [A blog post by Jaan Altosaar](https://jaan.io/how-does-physics-connect-machine-learning/) - easy to read
+- **TODO**: [A much more rigourous survey paper](https://arxiv.org/pdf/1601.00670.pdf) - contains actual examples of deriving the ELBO for specific models, and explains how to optimize it.
+
+### Future directions
+1. Instead of fixating on the KL divergence, why not choose some other measure of closeness? There may an alternative which has better tradeoffs between efficiency and approximation power. See [this paper](https://arxiv.org/abs/1610.09033).
+2. The ELBO is quite general in the sense that it holds for all posteriors; we made no assumption on its structure. Can we develop better approximations for only a specific class of posteriors? Ideally, this class of posteriors would also include practically interesting posteriors of models that are actually used.
+3. At a very general level, it might be useful to try and transfer statistical physics tools for computing partition functions over the the inference setting.
+# Kac-Rice Formula
+
 ---
 # BRAIN DUMP BELOW
 ---
