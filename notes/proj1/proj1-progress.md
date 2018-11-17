@@ -43,18 +43,57 @@ There are several drawbacks of this approach:
 1. Instead of fixating on the KL divergence, why not choose some other measure of closeness? There may an alternative which has better tradeoffs between efficiency and approximation power. See [this paper](https://arxiv.org/abs/1610.09033).
 2. The ELBO is quite general in the sense that it holds for all posteriors; we made no assumption on its structure. Can we develop better approximations for only a specific class of posteriors? Ideally, this class of posteriors would also include practically interesting posteriors of models that are actually used.
 3. At a very general level, it might be useful to try and transfer statistical physics tools for computing partition functions over the the inference setting.
-# Kac-Rice Formula
+
+# Complexity of optimization landscapes
+
+In short, we want to characterize the local optima of certain optimization problems.
+
+### Research Directions
+1. Use external tools to say interesting things about optimization problems that arise in machine learning.
+2. Some of these same tools are potentially related to counting complexity and hardness of approximating CSPs (see Risteski papers). It may be possible to say something interesting about classical computational complexity.
+3. There is also significant interest in understanding when gradient descent does and does not work. One special case is studying the initialization procedure of gradient descent. The goal is to characterize the set of all functions on which gradient descent works. See recent papers of Yue Lu and Tengyu Ma.
+4. See the second to last slide of Tengyu Ma's talk for a concrete open problem: https://simons.berkeley.edu/talks/tengyu-ma-10-2-17
+### A list of relevant papers
+Talked to Prof. Lu about the Kac-Rice formula. It is a tool for computing the number of local optima of a random objective function. So far, there are only two results I know of which use this tool. It would be a good class project to learn about this tool and its applications. There are potentially close connections with counting complexity. He also said that he is working with Ben Arous and Aukosh, and Aukosh would be a good person to talk to. For resources on Kac Rice, see Ben Arous.
+
+1. Prof. Lu mentioned this result in the context of initialization methods for gradient descent applied to a formulation of the phase retrieval problem.
+2. Tengyu Ma used it to understand the optimization landscape of tensor decomposition. See https://arxiv.org/abs/1706.05598 and a video https://www.youtube.com/watch?v=FOkVVSEvbvw
+3. Another potentially related paper, is by Ankur Moitra: https://arxiv.org/abs/1610.04317 This is also related to counting.
+4. https://arxiv.org/abs/1607.06534
+5. https://arxiv.org/abs/1808.07890
+6. https://arxiv.org/abs/1804.06561
+7. https://arxiv.org/abs/1802.07301
+8. https://arxiv.org/abs/1711.05424
+9. https://arxiv.org/abs/1808.00921
+10. https://arxiv.org/abs/1702.06435
+11. https://arxiv.org/abs/1110.5872
+12. https://arxiv.org/abs/1003.1129
+13. See also youtube videos of Ben Arous
+14. https://arxiv.org/abs/1803.06969
+15. http://proceedings.mlr.press/v40/Choromanska15.pdf
+16. http://proceedings.mlr.press/v38/choromanska15.pdf
+17. https://arxiv.org/abs/1412.6615
+18. https://arxiv.org/abs/1406.2572
+19. https://arxiv.org/abs/1712.09203
+20. https://arxiv.org/abs/cond-mat/0401287
+21. "Complexity of random energy landscapes" by Ben Arous
+
+A bunch of papers from Tengyu Ma's talk:
+[Srebro-Jaakkola’03, Kakade-Kalai-Kanade-Shamir’11, Sun-Qu-Wright’16,
+Xu-Hsu-Maleki’16, Daskalakis-Tzamos-Zampetakis’16, Boumal-Voroninski-Bandeira’16, Ge-Lee-M.’16, Bhojanapalli-Neyshabur-Srebro’16, Tian’17, Ge-Lee-M.’17]
+Choromanska-Henaff-Mathieu-BenArous-LeCun’14]
+[Dauphin-Pascanu-Gulcehre-Cho-Ganguli-Bengio’14]
+[Ge-Jin-Zheng’17]
+[Ge-Ma'17]
+[Adler-Taylor’09]  for Kac Rice
+[Auffinger-BenArous-Cerny’13]
+
+### Kac-Rice Formula
 
 ---
 # BRAIN DUMP BELOW
 ---
 
-9/10/18: Talk to Prof. Lu about the Kac-Rice formula. It is a tool for computing the number of local optima of a random objective function. So far, there are only two results I know of which use this tool. It would be a good class project to learn about this tool and its applications. There are potentially close connections with counting complexity.
-
-1. Prof. Lu mentioned this result in the context of initialization methods for gradient descent applied to a formulation of the phase retrieval problem.
-2. Tengyu Ma used it to understand the optimization landscape of tensor decomposition. See https://arxiv.org/abs/1706.05598
-
-Another potentially related paper, is by Ankur Moitra: https://arxiv.org/abs/1610.04317 This is also related to counting.
 
 # Provable algorithms for computing partition functions
 
