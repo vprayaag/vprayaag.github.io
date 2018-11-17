@@ -17,7 +17,7 @@ The 13th Latin American Theoretical Informatics Symposium (LATIN 2018) [[arXiv:1
 The 26th Canadian Conference on Computational Geometry (CCCG 2014) [[link](http://www.cccg.ca/proceedings/2014/papers/paper32.pdf)]
 
 ## Notes
-- [A Review of Statistics](https://vprayaag.github.io/notes/statistics-review.html)
+- [Chaining](https://vprayaag.github.io/notes/chaining.html)
 
 ## Contact
 [CV](/cv.pdf) | [GitHub](https://github.com/pkvasv) | [Email](mailto:pkvasv@gmail.com)
