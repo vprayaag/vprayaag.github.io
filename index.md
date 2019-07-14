@@ -19,9 +19,9 @@ The 26th Canadian Conference on Computational Geometry (CCCG 2014) [[link](http:
 ## Notes
 - [Chaining](/chaining.html)
 
-## Logs
-- [7/14/2019](/bob.md)
+[Logs](/logs.md)
+
 ## Contact
-[CV](/cv.pdf) | [GitHub](https://github.com/pkvasv) | [Email](mailto:pkvasv@gmail.com)
+[CV](/cv.pdf) | [GitHub](https://github.com/vprayaag) | [Email](mailto:pkvasv@gmail.com)
 
 *Last updated: 07/30/2018*
