@@ -1,5 +1,46 @@
 # August 2019
 
+## 8/13/19
+
+- \[2:45\]: Finished up strong convexity and cutting plane methods. Next step is to understand smoothness carefully.
+- \[0:40\]: Read first section of a survey.
+- \[0:50\]: Watched video lecture on TAP free energy.
+
+Had long errand in afternoon.
+
+## 8/12/19
+
+- \[3:00\]: Wrote notes for second and third video lectures. Completed fourth lecture.
+- \[1:15\]: Did planning for current research directions to pursue.
+
+Woke up late again.
+
+## 8/11/19
+
+- \[3:00\]: Watched second, third, and half of fourth lecture on convex optimization.
+- \[0:27\]: Thought about high level research directions.
+
+Woke up late again.
+
+## 8/10/19
+
+- \[1:20\]: Took notes up to Section 2.5 of Mezard-Montanari; read the reset of Section 2.
+- \[0:30\]: Watched introduction of video lecture about Ising Perceptron model.
+- \[1:35\]: Reviewed projected gradient descent.
+- \[0:50\]: Watched first lecture on convex optimization.
+
+Woke up late again.
+## 8/09/19
+
+- \[1:40\]: Looked over first few sections of monograph on non-convex optimization and started taking notes. Should be a fairly straightforward read.
+- \[1:55\]: Finished writing notes on computational-to-statistical gaps and TAP free energy. Plan to look into Montanari paper in the future.
+- \[0:10\]: Skimmed Section 2 in Mezard-Montanari book.
+
+Woke up late and had errands to do this morning.
+## 8/08/19
+
+- \[4:42\]: Read notes on computational-to-statistical gaps and TAP free energy. Things starting to make slightly more sense now.
+
 ## 8/07/19
 
 - \[0:20\]: Watched part of a talk on MCMC.
