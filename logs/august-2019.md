@@ -1,5 +1,40 @@
 # August 2019
 
+## 8/18/19
+
+- \[1:35\]: Finished up smooth non-convex optimization.
+- \[0:15\]: Read introduction of paper on convergence of BP.
+- \[2:15\]: Started notes on spiked matrix models.
+- \[0:10\]: Watched introduction of video of lecture on AMP.
+
+## 8/16/19
+
+- \[0:45\]: Finished video from yesterday.
+- \[0:15\]: Skimmed Mezard-Montanari sections on REM.
+
+## 8/16/19
+
+- \[1:55\]: Wrote notes on Sidford lecture notes.
+- \[1:25\]: Continued reading survey. Leaving it for now, maybe return in future. Makes more sense to got directly to recent papers.
+- \[0:25\]: Watched part of video of talk by Montanari.
+
+Had errand in morning.
+## 8/15/19
+
+- \[0:45\]: Watched part of a video of talk on non-convex optimization.
+- \[2:30\]: Completed third section of survey. Don't quite understand replica symmetry.
+ - \[1:20\]: Read first two sections of Sidford lecture notes.
+
+
+Had duty in morning.
+
+## 8/14/19
+
+- \[1:45\]: Finished up videos on convex optimization. Next step is to carefully revise notes and understand smoothness.
+- \[2:37\]: Continued with survey, completed second section.
+
+Had duty in morning.
+
 ## 8/13/19
 
 - \[2:45\]: Finished up strong convexity and cutting plane methods. Next step is to understand smoothness carefully.
