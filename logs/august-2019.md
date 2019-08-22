@@ -1,11 +1,39 @@
 # August 2019
 
+> gutta cavat lapidem non vi sed saepe cadendo
+
+## 8/22/19
+
+- \[\]:
+
+## 8/21/19
+
+- \[2:00\]: Watched video of talk on phase transitions in low-rank estimation.
+- \[1:45\]: Extracted intuition for AMP and state evolution from [Bayati-Montanari 2011] and wrote notes. Returned to AMP for spiked matrix model.
+- \[1:15\]: Watched parts of videos of talk on community detection and non-backtracking walk operator. Didn't learn too much, but will return in future.  
+
+## 8/20/19
+
+- \[1:24\]: Wrote notes for smooth convex optimization.
+- \[0:15\]: Continued notes on spiked matrix models.
+- \[1:38\]: Watched video of COLT 2017 plenary talk. Lots of interesting open problems, need to return in near future.
+- \[1:45\]: Extracted intuition for BP for compressed sensing from [Donoho-Maleki-Montanari 2010].
+
+
+## 8/19/19
+
+- \[1:00\]: Read notes for smooth convex optimization.
+- \[1:20\]: Developed intuition for AMP and state evolution.
+- \[1:25\]: Watched video of lecture on optimization of SK Hamiltonian.
+- \[0:20\]: Continued notes on spiked matrix models.
+- \[1:15\]: Watched [video](https://www.birs.ca/events/2013/5-day-workshops/13w5136/videos/watch/201302260905-Gamarnik.html) of lecture on local algorithms.
+
 ## 8/18/19
 
 - \[1:35\]: Finished up smooth non-convex optimization.
 - \[0:15\]: Read introduction of paper on convergence of BP.
 - \[2:15\]: Started notes on spiked matrix models.
-- \[0:10\]: Watched introduction of video of lecture on AMP.
+- \[1:03\]: Watched video of lecture on AMP. Next step is to understand derivation of state evolution as well as relation to interpretation in terms of TAP equations.
 
 ## 8/16/19
 
