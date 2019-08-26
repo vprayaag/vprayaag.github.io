@@ -2,9 +2,38 @@
 
 > gutta cavat lapidem non vi sed saepe cadendo
 
+## 8/26/19
+
+- \[2:40\]: Read Sinclar MCMC lecture notes.
+- \[2:00\]: Read through El Alaoui-Krzakala 2017 paper. Just need to go over calculations for upper bound.
+- \[\]:
+
+## 8/25/19
+
+- \[0:40\]: Finished video of talk on refuting random CSPs.
+- \[2:58\]: Read Sinclar MCMC lecture notes.
+- \[0:30\]: Did planning for fall 2020.
+
+## 8/24/19
+
+- \[0:45\]: Watched video of talk on scaling up MCMC. Definitely will return later; want to learn more about optimal transport.
+- \[1:00\]: Read interviews of S R S Varadhan.
+- \[0:40\]: Finished video on tensor PCA; didn't understand much, will return later after learning more about Langevin dynamics. Several open problems are available.
+- \[1:30\]: Tried to review MCMC and sampling from logconcave distributions. Was quite lazy and didn't accomplish much.
+- \[0:20\]: Watched part of video of talk on refuting random CSPs.
+
+## 8/23/19
+
+- \[1:00\]: Tried to watch video of talk on optimization of full-RSB spin glasses. Didn't understand much; need to learn more about replica symmetry and ultrametricity.
+- \[1:30\]: Read and reviewed El Alaoui thesis. Proofs are fairly straightforward, but need to get a deeper understanding.
+- \[0:20\]: Watched part of video of talk on tensor PCA.
+
 ## 8/22/19
 
-- \[\]:
+- \[3:10\]: Finished up intuition behind AMP and SE. Started to read about AMP for Rademacher spiked Wigner model.
+- \[1:18\]: Continued writing notes on spiked matrix models, have a better overview of the literature. Reading El Alaoui thesis should make reading the other papers easier (except for the AMP parts).
+
+Had an errand in afternoon.
 
 ## 8/21/19
 
