@@ -2,11 +2,28 @@
 
 > gutta cavat lapidem non vi sed saepe cadendo
 
+## 8/28/19
+
+- \[1:50\]: Read Sinclair MCMC lecture notes.
+- \[1:00\]: Continued reading through El Alaoui-Krzakala 2017 paper.
+- \[1:15\]: Started reading through El Alaoui-Krzakala-Jordan 2019 paper.
+- \[0:30\]: Administrative work.
+
+
+Attended (mandatory?) teaching conference.
+
+## 8/27/19
+
+- \[3:35\]: Read Sinclar MCMC lecture notes.
+- \[0:30\]: Thought about paper on using regret minimzation framework for rounding convex relaxation of experimental design problem.
+- \[0:55\]: Continued reading through El Alaoui-Krzakala 2017 paper.
+
+Flew back to Boston.
+
 ## 8/26/19
 
 - \[2:40\]: Read Sinclar MCMC lecture notes.
 - \[2:00\]: Read through El Alaoui-Krzakala 2017 paper. Just need to go over calculations for upper bound.
-- \[\]:
 
 ## 8/25/19
 
