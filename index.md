@@ -11,7 +11,7 @@ I am interested in the connections between: the Sum-of-Squares SDP hierarchy, st
 
 My graduate studies are supported by an [NSF Graduate Fellowship](https://www.nsfgrfp.org/).
 ## Papers
-- Preetum Nakkiran, Prayaag Venkat, Sham Kakade, Tengyu Ma
+- Preetum Nakkiran, Prayaag Venkat, Sham Kakade, Tengyu Ma.
 **Optimal Regularization Can Mitigate Double Descent**
 In submission. [[arXiv:2003.01897](https://arxiv.org/abs/2003.01897)]
 
