@@ -13,11 +13,11 @@ My graduate studies are supported by an [NSF Graduate Fellowship](https://www.ns
 ## Papers
 - Preetum Nakkiran, Prayaag Venkat, Sham Kakade, Tengyu Ma
 **Optimal Regularization Can Mitigate Double Descent**
-The 33rd Annual Conference on Learning Theory (COLT 2020) [[arXiv:2003.01897](https://arxiv.org/abs/2003.01897)]
+In submission. [[arXiv:2003.01897](https://arxiv.org/abs/2003.01897)]
 
 - Zhixian Lei, Kyle Luh, Prayaag Venkat, Fred Zhang.  
 **A Fast Spectral Algorithm for Mean Estimation with Sub-Gaussian Rates**  
-[[arXiv:1908.04468](https://arxiv.org/abs/1908.04468)]
+The 33rd Annual Conference on Learning Theory (COLT 2020) [[arXiv:1908.04468](https://arxiv.org/abs/1908.04468)]
 
 - Samir Khuller, Jingling Li, Pascal Sturmfels, Kevin Sun, and Prayaag Venkat.  
 **Select and Permute: An Improved Online Framework for Scheduling to Minimize Weighted Completion Time**  
