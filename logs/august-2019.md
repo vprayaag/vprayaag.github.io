@@ -2,6 +2,29 @@
 
 > gutta cavat lapidem non vi sed saepe cadendo
 
+## 8/31/19
+
+- \[3:05\]: Read Sinclair MCMC lecture notes. Skipped ahead to the geometric stuff.
+- \[1:20\]: Read Chapter 14 in Mertens-Moore book. Brain wasn't working so well.
+- \[0:15\]: Discussed statistical physics, ML, landscape analysis and related things.
+- \[0:10\]: Administrative work.
+- \[1:32\]: Finished reading relevant parts of Montanari-Sen 2016 paper. Understood key ideas of relevant parts. Lots of interesting open questions. Next step is to read Bandeira-Kunisky construction and think about generalizing.
+
+## 8/30/19
+
+- \[3:00\]: Read Sinclair MCMC lecture notes.
+- \[3:00\]: Read Montanari-Sen 2016. Construction is straightforward, still trying to extract more intuition.
+- \[0:15\]: Started reading Chapter 14 in Mertens-Moore book.
+
+## 8/29/19
+
+- \[2:45\]: Read Sinclair MCMC lecture notes. Skipped strong stationary times for now.
+- \[0:15\]: Thought a bit more about experimental design via regret minimization paper.
+- \[2:30\]: Started reading Barbier-Macris paper on adaptive interpolation method. Also watched video of talk by Barbier (see end of talk for interesting open problem). Mystery: *why* does it work? Next step is to read simpler cases of Curie-Weiss model and SBM, adding the features of this method on one at a time might be easier. Want to start turning more towards algorithmic implications.
+- \[0:30\]: Discussed counting complexity.
+- \[0:15\]: Planning.
+- \[0:20\]: Started reading Bolthausen book.
+
 ## 8/28/19
 
 - \[1:50\]: Read Sinclair MCMC lecture notes.
