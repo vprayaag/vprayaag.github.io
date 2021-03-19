@@ -1,7 +1,7 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+title: Prayaag Venkat
+tagline:
+url: https://vprayaag.github.io
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -33,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Prayaag Venkat
+  url: https://vprayaag.github.io
+  email: pkvasv@gmail.com
 
 # Custom vars
 version: 3.0.0
@@ -43,4 +43,3 @@ version: 3.0.0
 pages_list:
   About: '/about'
   Archive: '/archive'
-  Feed: '/atom.xml'

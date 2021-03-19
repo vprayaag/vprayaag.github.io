@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-# Prayaag Venkat
+### Prayaag Venkat
 
 I am a third-year graduate student in the [theory of computation group](https://toc.seas.harvard.edu/) at Harvard University, advised by [Boaz Barak](https://www.boazbarak.org/).
 
@@ -12,7 +12,7 @@ I am interested in the connections between: the Sum-of-Squares SDP hierarchy, st
 
 My graduate studies are supported by an [NSF Graduate Fellowship](https://www.nsfgrfp.org/).
 
-## Papers
+### Papers
 - Preetum Nakkiran, Prayaag Venkat, Sham Kakade, Tengyu Ma.
 **Optimal Regularization Can Mitigate Double Descent**
 The Ninth International Conference on Learning Representations (ICLR 2021). [[arXiv:2003.01897](https://arxiv.org/abs/2003.01897)]
