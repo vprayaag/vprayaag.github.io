@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-### Prayaag Venkat
-
 I am a third-year graduate student in the [theory of computation group](https://toc.seas.harvard.edu/) at Harvard University, advised by [Boaz Barak](https://www.boazbarak.org/).
 
 I am interested in the connections between: the Sum-of-Squares SDP hierarchy, statistical physics, average-case complexity theory, and information-computation gaps in high-dimensional statistics problems.
