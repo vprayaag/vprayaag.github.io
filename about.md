@@ -3,27 +3,34 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+# Prayaag Venkat
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I am a third-year graduate student in the [theory of computation group](https://toc.seas.harvard.edu/) at Harvard University, advised by [Boaz Barak](https://www.boazbarak.org/).
 
-There are currently two themes built on Poole:
+I am interested in the connections between: the Sum-of-Squares SDP hierarchy, statistical physics, average-case complexity theory, and information-computation gaps in high-dimensional statistics problems.
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+My graduate studies are supported by an [NSF Graduate Fellowship](https://www.nsfgrfp.org/).
 
-## Setup
+## Papers
+- Preetum Nakkiran, Prayaag Venkat, Sham Kakade, Tengyu Ma.
+**Optimal Regularization Can Mitigate Double Descent**
+The Ninth International Conference on Learning Representations (ICLR 2021). [[arXiv:2003.01897](https://arxiv.org/abs/2003.01897)]
 
-Some fun facts about the setup of this project include:
+- Zhixian Lei, Kyle Luh, Prayaag Venkat, Fred Zhang.  
+**A Fast Spectral Algorithm for Mean Estimation with Sub-Gaussian Rates**  
+The 33rd Annual Conference on Learning Theory (COLT 2020) [[arXiv:1908.04468](https://arxiv.org/abs/1908.04468)]
 
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
+- Samir Khuller, Jingling Li, Pascal Sturmfels, Kevin Sun, and Prayaag Venkat.  
+**Select and Permute: An Improved Online Framework for Scheduling to Minimize Weighted Completion Time**  
+The 13th Latin American Theoretical Informatics Symposium (LATIN 2018) [[arXiv:1704.06677](https://arxiv.org/abs/1704.06677)]
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+- Prayaag Venkat and David Mount.  
+**A Succinct, Dynamic Data Structure for Proximity Queries on Point Sets**  
+The 26th Canadian Conference on Computational Geometry (CCCG 2014) [[link](http://www.cccg.ca/proceedings/2014/papers/paper32.pdf)]
 
-Thanks for reading!
+## Contact
+[CV](/cv.pdf) | [GitHub](https://github.com/vprayaag) | [Email](mailto:pkvasv@gmail.com)
+
+---
+*Last updated: 03/19/2021*
