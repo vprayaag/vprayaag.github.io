@@ -3,14 +3,20 @@ layout: page
 title: About
 ---
 
-I am a third-year graduate student in the [theory of computation group](https://toc.seas.harvard.edu/) at Harvard University, advised by [Boaz Barak](https://www.boazbarak.org/).
+![prayaag](/prayaag.jpg)
 
-I am interested in the connections between: the Sum-of-Squares SDP hierarchy, statistical physics, average-case complexity theory, and information-computation gaps in high-dimensional statistics problems.
+I am a fourth-year graduate student in the [theory of computation group](https://toc.seas.harvard.edu/) at Harvard University, advised by [Boaz Barak](https://www.boazbarak.org/).
+
+I am interested in the phenomenon of information-computation gaps in average-case problems. Recently, I have been investigating this phenomenon in the context of discrepancy theory, random CSPs, estimating parameters of high-dimensional, heavy-tailed distributions, the graph matching problem and differential privacy. Please do reach out if you would like to discuss these or related topics!
 
 
 My graduate studies are supported by an [NSF Graduate Fellowship](https://www.nsfgrfp.org/).
 
 ### Papers
+- Zhixian Lei, Prayaag Venkat, Fred Zhang.
+**New Algorithms for Heavy-Tailed Covariance Estimation with Time-Accuracy Tradeoffs**
+In submission.
+
 - Preetum Nakkiran, Prayaag Venkat, Sham Kakade, Tengyu Ma.
 **Optimal Regularization Can Mitigate Double Descent**
 The Ninth International Conference on Learning Representations (ICLR 2021). [[arXiv:2003.01897](https://arxiv.org/abs/2003.01897)]
@@ -30,5 +36,6 @@ The 26th Canadian Conference on Computational Geometry (CCCG 2014) [[link](http:
 ## Contact
 [CV](/cv.pdf) | [GitHub](https://github.com/vprayaag) | [Email](mailto:pkvasv@gmail.com)
 
+My office is Room 3.334 of [the Science and Engineering Complex](https://www.seas.harvard.edu/about-us/visit-us/allston/science-engineering-complex).
 ---
-*Last updated: 03/19/2021*
+*Last updated: 01/30/2022*
