@@ -1,8 +1,3 @@
----
-layout: page
-title: About
----
-
 ![prayaag](/prayaag.jpg)
 
 I am a fourth-year graduate student in the [theory of computation group](https://toc.seas.harvard.edu/) at Harvard University, advised by [Boaz Barak](https://www.boazbarak.org/).
@@ -38,4 +33,4 @@ The 26th Canadian Conference on Computational Geometry (CCCG 2014) [[link](http:
 
 My office is Room 3.334 of [the Science and Engineering Complex](https://www.seas.harvard.edu/about-us/visit-us/allston/science-engineering-complex).
 ---
-*Last updated: 01/30/2022*
+*Last updated: 02/19/2022*
