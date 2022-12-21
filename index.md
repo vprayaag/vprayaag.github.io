@@ -8,19 +8,19 @@ My graduate studies are supported by an [NSF Graduate Fellowship](https://www.ns
 
 ### Papers
 
-- Daniel Alabi, Pravesh K. Kothari, Pranay Tankala, Prayaag Venkat, Fred Zhang.
+- Daniel Alabi, Pravesh K. Kothari, Pranay Tankala, Prayaag Venkat, Fred Zhang.  
 **Privately Estimating a Gaussian: Efficient, Robust and Optimal**   
 In submission. [[arXiv:2212.08018](https://arxiv.org/abs/2212.08018)]
 
-- Prayaag Venkat.
+- Prayaag Venkat.  
 **Efficient algorithms for certifying lower bounds on the discrepancy of random matrices**   
 The 14th Innovations in Theoretical Computer Science conference (ITCS 2023). [[arXiv:2211.07503](https://arxiv.org/abs/2211.07503)]
 
-- Aaron Potechin, Paxton Turner, Prayaag Venkat, Alexander S. Wein.
+- Aaron Potechin, Paxton Turner, Prayaag Venkat, Alexander S. Wein.  
 **Near-optimal fitting of ellipsoids to random points**  
 In submission. [[arXiv:2208.09493](https://arxiv.org/abs/2208.09493)]
 
-- Preetum Nakkiran, Prayaag Venkat, Sham Kakade, Tengyu Ma.
+- Preetum Nakkiran, Prayaag Venkat, Sham Kakade, Tengyu Ma.  
 **Optimal Regularization Can Mitigate Double Descent**  
 The Ninth International Conference on Learning Representations (ICLR 2021). [[arXiv:2003.01897](https://arxiv.org/abs/2003.01897)]
 
