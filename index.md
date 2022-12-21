@@ -1,16 +1,24 @@
 ![prayaag](/prayaag.jpg)
 
-I am a fourth-year graduate student in the [theory of computation group](https://toc.seas.harvard.edu/) at Harvard University, advised by [Boaz Barak](https://www.boazbarak.org/).
+I am a fifth-year graduate student in the [theory of computation group](https://toc.seas.harvard.edu/) at Harvard University, advised by [Boaz Barak](https://www.boazbarak.org/). **I am currently on the job market**.
 
-I am interested in the phenomenon of information-computation gaps in average-case problems. Recently, I have been investigating this phenomenon in the context of discrepancy theory, random CSPs, estimating parameters of high-dimensional, heavy-tailed distributions, the graph matching problem and differential privacy. Please do reach out if you would like to discuss these or related topics!
-
+My research focuses on the computational complexity of statistical inference, lying at the intersection of theoretical computer science, statistics, probability and data science. Recently, I have been investigating the phenomenon of information-computation gaps in the context of discrepancy theory, random CSPs, estimating parameters of high-dimensional, heavy-tailed distributions, and differential privacy. 
 
 My graduate studies are supported by an [NSF Graduate Fellowship](https://www.nsfgrfp.org/).
 
 ### Papers
-- Zhixian Lei, Prayaag Venkat, Fred Zhang.
-**New Algorithms for Heavy-Tailed Covariance Estimation with Time-Accuracy Tradeoffs**
-In submission.
+
+- Daniel Alabi, Pravesh K. Kothari, Pranay Tankala, Prayaag Venkat, Fred Zhang.
+**Privately Estimating a Gaussian: Efficient, Robust and Optimal**
+In submission. [[arXiv:2212.08018](https://arxiv.org/abs/2212.08018)]
+
+- Prayaag Venkat.
+**Efficient algorithms for certifying lower bounds on the discrepancy of random matrices**
+The 14th Innovations in Theoretical Computer Science conference (ITCS 2023). [[arXiv:2211.07503](https://arxiv.org/abs/2211.07503)]
+
+- Aaron Potechin, Paxton Turner, Prayaag Venkat, Alexander S. Wein.
+**Near-optimal fitting of ellipsoids to random points**
+In submission. [[arXiv:2208.09493](https://arxiv.org/abs/2208.09493)]
 
 - Preetum Nakkiran, Prayaag Venkat, Sham Kakade, Tengyu Ma.
 **Optimal Regularization Can Mitigate Double Descent**
@@ -33,4 +41,4 @@ The 26th Canadian Conference on Computational Geometry (CCCG 2014) [[link](http:
 
 My office is Room 3.334 of [the Science and Engineering Complex](https://www.seas.harvard.edu/about-us/visit-us/allston/science-engineering-complex).
 ---
-*Last updated: 02/19/2022*
+*Last updated: 12/21/2022*
