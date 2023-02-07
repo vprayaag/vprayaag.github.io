@@ -10,11 +10,11 @@ My graduate studies are supported by an [NSF Graduate Fellowship](https://www.ns
 
 - Daniel Alabi, Pravesh K. Kothari, Pranay Tankala, Prayaag Venkat, Fred Zhang.  
 **Privately Estimating a Gaussian: Efficient, Robust and Optimal**   
-In submission. [[arXiv:2212.08018](https://arxiv.org/abs/2212.08018)]
+To appear in the Proceedings of the 55th Annual ACM Symposium on Theory of Computing (STOC), 2023. [[arXiv:2212.08018](https://arxiv.org/abs/2212.08018)]
 
 - Prayaag Venkat.  
 **Efficient algorithms for certifying lower bounds on the discrepancy of random matrices**   
-The 14th Innovations in Theoretical Computer Science conference (ITCS 2023). [[arXiv:2211.07503](https://arxiv.org/abs/2211.07503)]
+The 14th Innovations in Theoretical Computer Science conference (ITCS 2023). [[arXiv:2211.07503](https://arxiv.org/abs/2211.07503)] and [official version](https://drops.dagstuhl.de/opus/volltexte/2023/17601/).
 
 - Aaron Potechin, Paxton Turner, Prayaag Venkat, Alexander S. Wein.  
 **Near-optimal fitting of ellipsoids to random points**  
