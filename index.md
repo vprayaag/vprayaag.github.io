@@ -1,6 +1,6 @@
 ![prayaag](/prayaag.jpg)
 
-I am a fifth-year graduate student in the [theory of computation group](https://toc.seas.harvard.edu/) at Harvard University, advised by [Boaz Barak](https://www.boazbarak.org/). **I am currently on the job market**.
+I am a fifth-year graduate student in the [theory of computation group](https://toc.seas.harvard.edu/) at Harvard University, advised by [Boaz Barak](https://www.boazbarak.org/). I will join [IDEAL](ideal-institute.org) as postdoc starting in Fall 2023.
 
 My research focuses on the computational complexity of statistical inference, lying at the intersection of theoretical computer science, statistics, probability and data science. Recently, I have been investigating the phenomenon of information-computation gaps in the context of discrepancy theory, random CSPs, estimating parameters of high-dimensional, heavy-tailed distributions, and differential privacy. 
 
